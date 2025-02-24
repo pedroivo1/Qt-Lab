@@ -1,0 +1,29 @@
+# ninja log v5
+2	396	7619883542457432	HelloUser_autogen/timestamp	1c9e88b5ce901130
+2	396	7619883542457432	HelloUser_autogen/mocs_compilation.cpp	1c9e88b5ce901130
+2	396	7619883542457432	C:/Users/pedro/Documentos/Dev/pedroivoal1/Qt-Lab/Qt Academy/HelloUser/build/x86_windows_msvc2019_pe_64bit-Debug/HelloUser_autogen/timestamp	1c9e88b5ce901130
+2	396	7619883542457432	C:/Users/pedro/Documentos/Dev/pedroivoal1/Qt-Lab/Qt Academy/HelloUser/build/x86_windows_msvc2019_pe_64bit-Debug/HelloUser_autogen/mocs_compilation.cpp	1c9e88b5ce901130
+403	2257	7619883561759141	CMakeFiles/HelloUser.dir/HelloUser_autogen/mocs_compilation.cpp.obj	33c0bc90cf437c1f
+407	2303	7619883562156024	CMakeFiles/HelloUser.dir/main.cpp.obj	5be4ae06e8b4338f
+411	2309	7619883562255562	CMakeFiles/HelloUser.dir/mainwindow.cpp.obj	fad078fd12b99fd8
+2310	2655	7619883565583429	HelloUser.exe	645d499877a96eb0
+6	483	7620202483363142	HelloUser_autogen/timestamp	1c9e88b5ce901130
+6	483	7620202483363142	HelloUser_autogen/mocs_compilation.cpp	1c9e88b5ce901130
+6	483	7620202483363142	C:/Users/pedro/Documentos/Dev/pedroivoal1/Qt-Lab/Qt Academy/HelloUser/build/x86_windows_msvc2019_pe_64bit-Debug/HelloUser_autogen/timestamp	1c9e88b5ce901130
+6	483	7620202483363142	C:/Users/pedro/Documentos/Dev/pedroivoal1/Qt-Lab/Qt Academy/HelloUser/build/x86_windows_msvc2019_pe_64bit-Debug/HelloUser_autogen/mocs_compilation.cpp	1c9e88b5ce901130
+502	3160	7620202510861264	CMakeFiles/HelloUser.dir/main.cpp.obj	5be4ae06e8b4338f
+486	3162	7620202510861264	CMakeFiles/HelloUser.dir/HelloUser_autogen/mocs_compilation.cpp.obj	33c0bc90cf437c1f
+498	3172	7620202510950547	CMakeFiles/HelloUser.dir/mainwindow.cpp.obj	fad078fd12b99fd8
+3173	3560	7620202514281199	HelloUser.exe	645d499877a96eb0
+5	152	7620202771394714	HelloUser_autogen/timestamp	1c9e88b5ce901130
+5	152	7620202771394714	HelloUser_autogen/mocs_compilation.cpp	1c9e88b5ce901130
+5	152	7620202771394714	C:/Users/pedro/Documentos/Dev/pedroivoal1/Qt-Lab/Qt Academy/HelloUser/build/x86_windows_msvc2019_pe_64bit-Debug/HelloUser_autogen/timestamp	1c9e88b5ce901130
+5	152	7620202771394714	C:/Users/pedro/Documentos/Dev/pedroivoal1/Qt-Lab/Qt Academy/HelloUser/build/x86_windows_msvc2019_pe_64bit-Debug/HelloUser_autogen/mocs_compilation.cpp	1c9e88b5ce901130
+161	2268	7620202826158882	CMakeFiles/HelloUser.dir/mainwindow.cpp.obj	fad078fd12b99fd8
+2269	2463	7620202827806852	HelloUser.exe	645d499877a96eb0
+6	182	7620453299568287	HelloUser_autogen/timestamp	1c9e88b5ce901130
+6	182	7620453299568287	HelloUser_autogen/mocs_compilation.cpp	1c9e88b5ce901130
+6	182	7620453299568287	C:/Users/pedro/Documentos/Dev/pedroivoal1/Qt-Lab/Qt Academy/HelloUser/build/x86_windows_msvc2019_pe_64bit-Debug/HelloUser_autogen/timestamp	1c9e88b5ce901130
+6	182	7620453299568287	C:/Users/pedro/Documentos/Dev/pedroivoal1/Qt-Lab/Qt Academy/HelloUser/build/x86_windows_msvc2019_pe_64bit-Debug/HelloUser_autogen/mocs_compilation.cpp	1c9e88b5ce901130
+191	2487	7620453325147859	CMakeFiles/HelloUser.dir/mainwindow.cpp.obj	fad078fd12b99fd8
+2487	2715	7620453326888622	HelloUser.exe	645d499877a96eb0
